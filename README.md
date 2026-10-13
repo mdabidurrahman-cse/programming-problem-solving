@@ -71,3 +71,11 @@ Solutions to all 52 problems from the book **"৫২টি প্রোগ্র
 ## 👤 Author
 **Md. Abidur Rahman**
 - GitHub: [@mdabidurrahman-cse](https://github.com/mdabidurrahman-cse)
+
+---
+
+## 👨‍🏫 Faculty Acknowledgements & Review
+
+The code logic, algorithmic standards, and architectural implementation in this repository have been formally reviewed and evaluated under academic supervision, reflecting strong foundational competence and rigorous problem-solving capability. 
+
+— **Department of Computer Science and Engineering, Delta Computer Science College, Rangpur**
