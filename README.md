@@ -6,8 +6,8 @@ Solutions to all 52 problems from the book **"৫২টি প্রোগ্র
 
 ## 📌 Progress Tracker
 
-- [x] **Problem 01:** Even or Odd 1 (`problem_01_even_odd_1.c`)
-- [ ] **Problem 02:** Even or Odd 2
+- [x] **Problem 01:** Even or Odd 1 (`problem_01_even_odd_1.c`) — [ https://dimikoj.com/submissions/54601 ]
+- [x] **Problem 02:** Even or Odd 2 (`problem_02_even_odd_2.c`) — [ https://dimikoj.com/submissions/54656 ]
 - [ ] **Problem 03:** Descending Numbers
 - [ ] **Problem 04:** Divisor
 - [ ] **Problem 05:** Box 1
