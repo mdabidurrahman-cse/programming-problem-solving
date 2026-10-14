@@ -12,7 +12,7 @@ Solutions to all 52 problems from the book **"৫২টি প্রোগ্র
 - [ ] **Problem 04:** Divisor ("problem_04_divisors.c") - [ https://dimikoj.com/submissions/54658 ]
 - [ ] **Problem 05:** Box 1 ("problem_05_box_1.c") - [ https://dimikoj.com/submissions/54660 ]
 - [ ] **Problem 06:** Summation ("problem_06_summation.c") - [ https://dimikoj.com/submissions/54661 ]
-- [ ] **Problem 07:** Count Numbers
+- [ ] **Problem 07:** Count Numbers ("problem_06_number_counting.c") - [ https://dimikoj.com/submissions/54662 ]
 - [ ] **Problem 08:** Small to Large
 - [ ] **Problem 09:** Square Number
 - [ ] **Problem 10:** Run Rate 1
