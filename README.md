@@ -11,7 +11,7 @@ Solutions to all 52 problems from the book **"৫২টি প্রোগ্র
 - [ ] **Problem 03:** Descending Numbers ("problem_03_descending_numbers.c") - [ https://dimikoj.com/submissions/54657 ]
 - [ ] **Problem 04:** Divisor ("problem_04_divisors.c") - [ https://dimikoj.com/submissions/54658 ]
 - [ ] **Problem 05:** Box 1 ("problem_05_box_1.c") - [ https://dimikoj.com/submissions/54660 ]
-- [ ] **Problem 06:** Summation
+- [ ] **Problem 06:** Summation ("problem_06_summation.c") - [ https://dimikoj.com/submissions/54661 ]
 - [ ] **Problem 07:** Count Numbers
 - [ ] **Problem 08:** Small to Large
 - [ ] **Problem 09:** Square Number
