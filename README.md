@@ -17,7 +17,7 @@ Solutions to all 52 problems from the book **"৫২টি প্রোগ্র
 - [ ] **Problem 09:** Square Number ("problem_09_square_number.c") - [ https://dimikoj.com/submissions/54669 ]
 - [ ] **Problem 10:** Run Rate 1 ("problem_10_run_rate.c") - [ https://dimikoj.com/submissions/54676 ]
 - [ ] **Problem 11:** Factorial ("problem_11_factorial.c") - [ https://dimikoj.com/submissions/54677 ]
-- [ ] **Problem 12:** Factorial 100
+- [ ] **Problem 12:** Factorial 100 ("problem_12_factorial_100.c") - [ https://dimikoj.com/submissions/54680 ]
 - [ ] **Problem 13:** Tomi Mia's Probability
 - [ ] **Problem 14:** Character Frequency
 - [ ] **Problem 15:** Character Count
