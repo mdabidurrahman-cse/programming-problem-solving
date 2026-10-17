@@ -19,7 +19,7 @@ Solutions to all 52 problems from the book **"৫২টি প্রোগ্র
 - [ ] **Problem 11:** Factorial ("problem_11_factorial.c") - [ https://dimikoj.com/submissions/54677 ]
 - [ ] **Problem 12:** Factorial 100 ("problem_12_factorial_100.c") - [ https://dimikoj.com/submissions/54680 ]
 - [ ] **Problem 13:** Tomi Mia's Probability
-- [ ] **Problem 14:** Character Frequency
+- [ ] **Problem 14:** Character Frequency ("problem_14__character_frequency.c") - [ https://dimikoj.com/problems/14/character-frequency ]
 - [ ] **Problem 15:** Character Count
 - [ ] **Problem 16:** Word Disaster
 - [ ] **Problem 17:** Vowel Count
